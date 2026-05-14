@@ -1,1 +1,0 @@
-Notes on Bash scripting, variables, loops, and error handling.
