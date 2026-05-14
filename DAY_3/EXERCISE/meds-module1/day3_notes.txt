@@ -1,0 +1,3 @@
+Notes on Git data model: Blobs, Trees, Commits, and Refs.
+Adding new technical notes for Day 3
+Adding new technical notes for Day 3

@@ -1,0 +1,1 @@
+Notes on Git data model: Blobs, Trees, Commits, and Refs.

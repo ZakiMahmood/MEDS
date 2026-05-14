@@ -1,0 +1,12 @@
+bulid/
+*.o
+*.d
+*vcd
+*fsdb
+*.log
+simv
+simv.dadir/
+csrc/
+.DS_Store
+.vscode/
+*.swp
